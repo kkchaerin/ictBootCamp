@@ -42,14 +42,5 @@ group by, union, substr, case when then 구문 사용
 
 5. 부서별 월별 로그인 수
 
-   
-
-   - 참고.년별 접속자수 
-
-   ```sql
-   select count(*) as totCnt
-   from statistc.requestinfo ri
-   where left(ri.createDate, 2) = #{year};
-   ```
 
    
