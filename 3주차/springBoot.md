@@ -29,4 +29,9 @@ Consider defining a bean of type 'com.example.settingweb_boot.dao.StatisticMappe
   
   - ![image](https://user-images.githubusercontent.com/48851895/130188843-ed645e35-935d-4169-9c0e-03949a393189.png)아직 DB 입력 전임..
 
+  - ![image](https://user-images.githubusercontent.com/48851895/130224221-5a438adc-6da1-425b-bc0a-55768b789b1b.png) 비밀번호로 바꿔주고..
+  - ![image](https://user-images.githubusercontent.com/48851895/130224642-0b7da864-6f10-4310-9642-2f91a7ab0340.png) MySQL Workbench에다가 DB도 만듦.
+  - 최종 결과
+  ![image](https://user-images.githubusercontent.com/48851895/130224725-f85b38a9-af59-4f85-94d3-2fe85200228e.png)
+
 
